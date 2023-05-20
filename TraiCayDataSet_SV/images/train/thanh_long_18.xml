@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trai_cay_320_320</folder>
+	<filename>thanh_long_18.bmp</filename>
+	<path>D:\XuLyAnh\Project_TraiCay\TraiCayDataSet_SV\trai_cay_320_320\thanh_long_18.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thanh_long</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>62</ymin>
+			<xmax>301</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>
